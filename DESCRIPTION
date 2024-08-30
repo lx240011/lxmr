@@ -1,0 +1,10 @@
+Package: LXbatmr
+Type: LXbatmr
+Title: Dr.Lin
+Version: 3.11
+Author: Dr.Lin
+Maintainer: Dr.Lin <gluck4668@sina.com>
+Description: LXbatmr can batch process the MR analysis.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
